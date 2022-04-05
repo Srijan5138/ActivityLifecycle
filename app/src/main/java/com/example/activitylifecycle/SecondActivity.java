@@ -14,8 +14,6 @@ public class SecondActivity extends AppCompatActivity {
 
     public static final String EXTRA_MESSAGE = "ca.nbcc.shoppinglist.extra.MESSAGE";
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
